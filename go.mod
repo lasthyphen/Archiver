@@ -1,4 +1,4 @@
-module github.com/ava-labs/ortelius
+module github.com/lasthyphen/Archiver
 
 go 1.17
 
